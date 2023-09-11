@@ -1,0 +1,82 @@
+.first,
+.last,
+.age,
+.jill,
+.smith,
+.fifty,
+.eve,
+.jakson,
+.ninty,
+.jhon,
+.doe,
+.eighty {
+  border-radius: 10px;
+}
+
+.one,
+.two,
+.three,
+.four,
+.five,
+.six,
+.seven,
+.eight,
+.nine {
+  width: 100px;
+  height: 80px;
+  /* border-color: greenyellow; */
+  border: 2px solid greenyellow;
+  /* display: flex; */
+
+  margin: 0 10px;
+}
+
+.big-one,
+.big-two,
+.big-three {
+  display: flex;
+}
+
+.big-one {
+  margin-top: 50px;
+}
+
+.center {
+  align-self: center;
+}
+
+.one {
+  border-radius: 8px;
+}
+
+.two {
+  border-radius: 10px;
+}
+
+.three {
+  border-radius: 25px;
+}
+
+.four {
+  border-radius: 12px;
+}
+
+.five {
+  border-radius: 4px;
+}
+
+.six {
+  border-radius: 30px;
+}
+
+.seven {
+  border-radius: 75%;
+}
+
+.eight {
+  border-radius: 6px;
+}
+
+.nine {
+  border-radius: 6px 25px;
+}

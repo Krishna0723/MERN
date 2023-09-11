@@ -1,0 +1,19 @@
+/* th,
+td {
+} */
+
+.heading {
+  background-color: rgb(3, 197, 3);
+  color: rgb(207, 207, 207);
+}
+
+th {
+  text-align: start;
+}
+table {
+  width: 100%;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(209, 208, 208);
+}

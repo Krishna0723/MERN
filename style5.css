@@ -1,0 +1,63 @@
+h1 {
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: yellow;
+}
+
+.main {
+  display: flex;
+}
+
+.content {
+  margin-left: 40px;
+  color: rgb(126, 19, 19);
+}
+
+.nav {
+  margin: 50px 50px;
+}
+
+.Home {
+  width: 125px;
+  /* border: white 2px solid; */
+  /* background-color: white; */
+  background: linear-gradient(to right, white 85%, black 15%);
+  padding: 5px 5px;
+}
+
+.music {
+  width: 125px;
+  background: linear-gradient(to right, white 85%, black 15%);
+  padding: 5px 5px;
+}
+
+.my {
+  width: 125px;
+  background: linear-gradient(to right, white 85%, black 15%);
+  padding: 5px 5px;
+}
+
+.link {
+  width: 125px;
+  background: linear-gradient(to right, white 85%, black 15%);
+  padding: 5px 5px;
+}
+
+p {
+  font-size: 20px;
+}
+
+div p:last-child {
+  font-style: italic;
+}
+
+.line {
+  border-bottom: 2px dotted rgb(126, 19, 19);
+  padding-bottom: 25px;
+}

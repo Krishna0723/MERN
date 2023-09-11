@@ -1,0 +1,73 @@
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+
+p {
+  padding-left: 10px;
+}
+
+.home {
+  background-color: orange;
+}
+
+div p:first-child {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.box {
+  border: 2px black solid;
+  width: 210px;
+  height: 250px;
+}
+
+.vertiacl {
+  background-color: rgb(170, 170, 243);
+  width: 100px;
+  height: 200px;
+  /* border: 2px black solid; */
+  /* margin: 10px; */
+  /* padding: 10px 20px; */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: auto;
+}
+
+.horizontal {
+  display: flex;
+}
+
+.grey {
+  background-color: rgb(229, 229, 229);
+  border-right: 1px solid blue;
+  padding-right: 10px;
+}
+
+.greey {
+  background-color: grey;
+  border-right: 1px solid blue;
+  padding-right: 10px;
+}
+
+.flex {
+  display: flex;
+}
+
+/* .hoome {
+  color: white;
+} */
+
+a:link,
+a:active,
+a:visited,
+a:hover {
+  color: blue;
+}
+
+.hme:link,
+.hme:active,
+.hme:visited {
+  color: white;
+}
